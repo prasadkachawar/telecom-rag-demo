@@ -159,7 +159,7 @@ Want to try it on real 3GPP specs? The documents are freely available:
 
 I wrote about the design decisions behind this system — why naive RAG fails for telecom specs and how the hybrid + graph approach solves it:
 
-**[How I Built a Hybrid RAG System for 3GPP Specification Reasoning](#)** *(link your Medium/LinkedIn article here)*
+**[How I Built a Hybrid RAG System for 3GPP Specification Reasoning](#)** **
 
 ---
 
